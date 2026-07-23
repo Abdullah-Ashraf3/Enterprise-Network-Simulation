@@ -1,0 +1,2 @@
+# Enterprise-Network-Simulation
+This repository contains a Cisco Packet Tracer simulation and configuration files for a multi-site enterprise network. The topology demonstrates Wide Area Network (WAN) connectivity and routing between a central Headquarters (HQ) and two remote locations (Branch A and Branch B) through an Internet Service Provider (ISP). It includes both startup and running configuration backups for all routers and switches involved in the network infrastructure.
